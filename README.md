@@ -1,6 +1,6 @@
 # fireworks
 
-A Quil sketch designed to ... well, that part is up to you.
+A Quil animation of fireworks. Click on the screen to create fireworks!
 
 ## Usage
 
