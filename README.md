@@ -1,6 +1,7 @@
 # fireworks
-
-A Quil animation of fireworks. Click on the screen to create fireworks!
+Created 31. 12. 2020
+<hr>
+A Quil animation. Click on the screen to create fireworks!
 
 ## Usage
 
